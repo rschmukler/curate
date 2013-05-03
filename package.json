@@ -1,0 +1,22 @@
+{
+  "name": "curate",
+  "version": "0.1.0",
+  "description": "API Manufacturer for Query Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rschmukler/curate"
+  },
+  "keywords": [
+    "curate",
+    "API",
+    "middleware",
+    "query",
+    "objects"
+  ],
+  "author": "Ryan Schmukler <ryan@slingingcode.com>",
+  "license": "MIT"
+}
