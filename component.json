@@ -1,0 +1,14 @@
+{
+  "name": "curate",
+  "version": "0.1.0",
+  "repo": "rschmukler/curate",
+  "description": "simplified models",
+  "dependencies": {
+    "visionmedia/superagent": "*"
+  },
+  "main": "lib/client.js",
+  "scripts": [
+    "lib/client.js"
+  ]
+}
+
