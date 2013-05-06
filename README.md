@@ -40,7 +40,7 @@ It works especially well with [modella](http://github.com/modella/modella) and
 
       curate('users/all', User.allUsers);
 
-You can now visit `http://localhost/api/v1/users` and get JSON of the users
+You can now visit `http://localhost/api/v1/users/all` and get JSON of the users
 returned by the `User.allUsers` query.
 
 ### consuming the API
